@@ -22,18 +22,17 @@
             "<counterfeit_token_symbol>",
             "<counterfeit_token_name>",
             "<counterfeit_token_creation_date>",
-            "<forgery_method>",
+            "<forgery_method>"
         ],
         [
             "<impersonated_token_address>",
             "<impersonated_token_symbol>",
             "<impersonated_token_name>",
             "<impersonated_token_creation_date>",
-            "<impersonated_token_creation_id>",
+            "<impersonated_token_creation_id>"
         ]
     ],
     ...
 }
 ```
-
 
